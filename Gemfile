@@ -12,3 +12,4 @@ gem "lita"
 # For example:
 # gem "lita-google-images"
  gem "lita-rezlog", path: './lita-rezlog'
+ gem 'lita-slack'
